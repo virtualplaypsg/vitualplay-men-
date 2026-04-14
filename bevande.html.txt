@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bevande - Virtual Play PSG</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="logo"><span>VIRTUAL</span> PLAY PSG</div>
+      <div class="subtitle">Bevande</div>
+    </header>
+
+    <a href="../index.html" class="back-link">⬅ Torna al Menu</a>
+
+    <h2 class="section-title">Cocktail</h2>
+    <div class="card">
+      <ul class="list">
+        <li>Spritz Aperol</li>
+        <li>Spritz Campari</li>
+        <li>Negroni</li>
+        <li>Americano</li>
+        <li>Gin Tonic</li>
+        <li>Vodka Lemon</li>
+        <li>Cuba Libre</li>
+        <li>Mojito</li>
+        <li>Caipirinha</li>
+        <li>Daiquiri</li>
+        <li>Margarita</li>
+        <li>Sex on the Beach</li>
+        <li>Long Island Iced Tea</li>
+        <li>Cosmopolitan</li>
+        <li>Blue Lagoon</li>
+        <li>Pina Colada</li>
+        <li>Moscow Mule</li>
+        <li>Whiskey Sour</li>
+        <li>Tequila Sunrise</li>
+        <li>Mai Tai</li>
+      </ul>
+    </div>
+
+    <h2 class="section-title">Cocktail Analcolici</h2>
+    <div class="card">
+      <ul class="list">
+        <li>Virgin Mojito</li>
+        <li>Virgin Colada</li>
+        <li>Ginger Lime</li>
+        <li>Tropical Mix</li>
+        <li>Frutta Fresca Shake</li>
+      </ul>
+    </div>
+
+    <h2 class="section-title">Bevande in Lattina</h2>
+    <div class="card">
+      <ul class="list">
+        <li>Coca-Cola</li>
+        <li>Coca-Cola Zero</li>
+        <li>Fanta</li>
+        <li>Sprite</li>
+        <li>Tè al Limone</li>
+        <li>Tè alla Pesca</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <a class="btn-home" href="../index.html">Torna alla Home</a>
+  </div>
+</body>
+</html>
