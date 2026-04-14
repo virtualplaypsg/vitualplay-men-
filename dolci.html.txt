@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dolci - Virtual Play PSG</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="logo"><span>VIRTUAL</span> PLAY PSG</div>
+      <div class="subtitle">Dolci</div>
+    </header>
+
+    <a href="../index.html" class="back-link">⬅ Torna al Menu</a>
+
+    <h2 class="section-title">Dolci</h2>
+
+    <div class="card">
+      <ul class="list">
+        <li>Tiramisù</li>
+        <li>Cheesecake</li>
+        <li>Brownie con gelato</li>
+        <li>Panna cotta</li>
+        <li>Gelato artigianale</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <a class="btn-home" href="../index.html">Torna alla Home</a>
+  </div>
+</body>
+</html>
