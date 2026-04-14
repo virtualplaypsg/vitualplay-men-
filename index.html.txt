@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Virtual Play PSG - Menu Digitale</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="logo"><span>VIRTUAL</span> PLAY PSG</div>
+      <div class="subtitle">Menu Digitale – Avvicina il telefono alla lampada Lumen</div>
+    </header>
+
+    <section>
+      <div class="menu-buttons">
+        <a class="btn-main" href="menu/bevande.html">
+          <span class="icon">🥤</span><span>Bevande</span>
+        </a>
+        <a class="btn-main" href="menu/panini.html">
+          <span class="icon">🍔</span><span>Panini</span>
+        </a>
+        <a class="btn-main" href="menu/pizze.html">
+          <span class="icon">🍕</span><span>Pizze</span>
+        </a>
+        <a class="btn-main" href="menu/dolci.html">
+          <span class="icon">🍰</span><span>Dolci</span>
+        </a>
+      </div>
+    </section>
+  </div>
+
+  <div class="bottom-bar">
+    <a class="btn-home" href="index.html">Torna alla Home</a>
+  </div>
+</body>
+</html>
